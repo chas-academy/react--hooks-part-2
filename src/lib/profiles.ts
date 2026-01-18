@@ -6,7 +6,7 @@ const profiles = [
   {
     name: "Teapot",
     img: "https://plus.unsplash.com/premium_photo-1666551753405-88cbf90c04ce",
-  }
+  },
 ];
 
 export default profiles;
