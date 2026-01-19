@@ -25,6 +25,8 @@ Memoisation är en optimeringsteknik inom programmering som lagrar uträkningen 
 
 ## 💾 2. Memoisera den tidskrävande funktionen
 
+- [ ] **Genomförd**
+
 - Gå till `memo.tsx` och studera koden där
 - Testa att toggla de olika knapparna. Observera att UI:t laggar även när det slumpmässiga numret _inte_ uppdateras
 - Den tidskrävande funktionen används redan på ett ställe. Hitta den raden och titta på vad den använder sig av för värde
